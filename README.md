@@ -1,2 +1,2 @@
-# Projects
-Data Exploration Project - Layoffs
+# Portfolio Projects
+Exploratory Data Analysis Project - Layoffs
